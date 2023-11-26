@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Madhan-Portfolio/static/css/main.7ded9ef5.css",
+    "main.js": "/Madhan-Portfolio/static/js/main.b9979ff8.js",
+    "static/media/41.jpg": "/Madhan-Portfolio/static/media/41.6c5dad683cbcdabb7f61.jpg",
+    "static/media/dosa.jpg": "/Madhan-Portfolio/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "static/media/1.avif": "/Madhan-Portfolio/static/media/1.8ee6896dd2f4f8e1c036.avif",
+    "static/media/1.jpg": "/Madhan-Portfolio/static/media/1.3c1e569816eefd35faca.jpg",
+    "index.html": "/Madhan-Portfolio/index.html",
+    "main.7ded9ef5.css.map": "/Madhan-Portfolio/static/css/main.7ded9ef5.css.map",
+    "main.b9979ff8.js.map": "/Madhan-Portfolio/static/js/main.b9979ff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ded9ef5.css",
+    "static/js/main.b9979ff8.js"
+  ]
+}
